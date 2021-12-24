@@ -1,4 +1,4 @@
-[![RimWorld 1.2](https://img.shields.io/badge/RimWorld-1.2-brightgreen.svg)](http://rimworldgame.com/)
+[![RimWorld 1.3](https://img.shields.io/badge/RimWorld-1.3-brightgreen.svg)](http://rimworldgame.com/)
 
 Replaces random breakdowns with a maintenance requirement.
 
